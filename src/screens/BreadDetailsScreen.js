@@ -15,7 +15,7 @@ export default BreadDetailsScreen;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#22c1c3',
+    backgroundColor: '#ffefba',
     alignItems: 'center',
     justifyContent: 'center',
   },
