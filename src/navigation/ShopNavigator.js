@@ -17,8 +17,7 @@ export default ShopNavigator = () => {
           fontWeight: 'bold',
           justifyContent: 'center',
           fontSize: 30,
-          textAlign: 'center',
-          marginLeft: 50,                    
+          textAlign: 'center',                       
         }
         
       }}>
