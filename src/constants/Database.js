@@ -1,0 +1,2 @@
+export const URL_API = 'https://casapanapp-default-rtdb.firebaseio.com';
+export const URL_AUTH_SIGNUP = 'https://identitytoolkit.googleapis.com/v1/accounts:signInWithCustomToken?key=AIzaSyDhiWOUsxjblOuVkZuBP5zy1Ve7KawhUzM';

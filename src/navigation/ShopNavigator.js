@@ -2,6 +2,7 @@ import BreadDetailsScreen from '../screens/BreadDetailsScreen';
 import { COLORS } from '../constants/Colors';
 import CategoriesScreen from '../screens/CategoriesScreen';
 import CategoryBreadScreen from '../screens/CategoryBreadScreen';
+import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
 const Stack = createNativeStackNavigator();
